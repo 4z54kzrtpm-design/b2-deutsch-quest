@@ -1,0 +1,11 @@
+{
+  "name": "B2 Deutsch Quest",
+  "short_name": "B2 Deutsch",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f6fa",
+  "theme_color": "#111827",
+  "lang": "ko",
+  "description": "B2 독일어 어휘·Redemittel·시험형 학습 웹앱",
+  "icons": []
+}
